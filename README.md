@@ -4,7 +4,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-React_19-blue.svg)
 ![Styling](https://img.shields.io/badge/Styling-Tailwind_CSS_v4-06B6D4.svg)
 
-A beautifully sculpted, purely frontend React application designed to mimic a physical hanging wall calendar. Features an interactive date grid, per-date sticky notes, seamless `localStorage` state persistence, and a highly polished UI. 
+A beautifully sculpted, purely frontend React application designed to mimic a physical hanging wall calendar. No fancy api and Databases used here , it is purly built with the event handelers and local storage integration 
 
 **Repository Link:** [https://github.com/Hardikdhoot121/calender_to_do_list](https://github.com/Hardikdhoot121/calender_to_do_list)
 
