@@ -33,7 +33,6 @@ function App() {
 
       </div>
       
-      {/* Vercel Analytics */}
       <Analytics />
     </div>
   );
