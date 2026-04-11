@@ -1,4 +1,5 @@
 import React from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import Calendar from './components/Calendar';
 
 function App() {
@@ -31,6 +32,9 @@ function App() {
         <Calendar />
 
       </div>
+      
+      {/* Vercel Analytics */}
+      <Analytics />
     </div>
   );
 }
